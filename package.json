@@ -1,0 +1,22 @@
+{
+  "name": "cypress_assertions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anshita-Bhasin/Cypress_Assertions.git"
+  },
+  "author": "Anshita Bhasin <anshita@propertyfinder.ae>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anshita-Bhasin/Cypress_Assertions/issues"
+  },
+  "homepage": "https://github.com/Anshita-Bhasin/Cypress_Assertions#readme",
+  "dependencies": {
+    "cypress": "^12.11.0"
+  }
+}
