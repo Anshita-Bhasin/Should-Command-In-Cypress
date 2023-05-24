@@ -23,19 +23,19 @@ In this repo, Below assertions are provided with examples.
 
 * Assert on the basis of value tag
 
-Assert on the basis of HTML attribute
+* Assert on the basis of HTML attribute
 
-Assert for checkboxes
+* Assert for checkboxes
 
-Chaining Multiple Assertions
+* Chaining Multiple Assertions
 
-Assert if text is visible/hidden
+* Assert if text is visible/hidden
 
-Assert if value is empty
+* Assert if value is empty
 
-Assert if URL is correct
+* Assert if URL is correct
 
-Assert if element is not present
+* Assert if element is not present
 
 
 💭 For Practising different scenarios, checkout LambdaTest Practise Page - https://www.lambdatest.com/selenium-playground?fp_ref=anshita87
