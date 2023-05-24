@@ -38,10 +38,10 @@ Assert if URL is correct
 Assert if element is not present
 
 
-
 💭 For Practising different scenarios, checkout LambdaTest Practise Page - https://www.lambdatest.com/selenium-playground?fp_ref=anshita87
 
-💭 Checkout the blogs related to Testing on LambdaTest blogs, medium blogs.
+💭 Checkout the blogs related to Testing on LambdaTest blogs https://www.lambdatest.com/blog/author/anshitabhasin/
 
+Medium blogs - https://medium.com/@anshita.bhasin
 
 🔖 Checkout Cypress videos on my youtube channel - AB Automation Hub (https://www.youtube.com/@ABAutomationHub)
