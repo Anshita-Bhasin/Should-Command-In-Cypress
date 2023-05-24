@@ -15,13 +15,13 @@ In Cypress, the .should() command is used to make assertions about the state of 
 
 In this repo, Below assertions are provided with examples.
 
-*Assert on the basis of class value
+* Assert on the basis of class value
 
-*Assert on the basis of length
+* Assert on the basis of length
 
-*Assert on the basis of text
+* Assert on the basis of text
 
-*Assert on the basis of value tag
+* Assert on the basis of value tag
 
 Assert on the basis of HTML attribute
 
